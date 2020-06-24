@@ -8,12 +8,12 @@ This is the News Feed app from the sixth project of Udacity Android Basics Nanod
 
 
 ## Built With
-Connecting to an API
-Parsing the JSON response
-Updating information regularly
-AsyncTask
-Network operations independent of the Activity lifecycle
-Uri.Builder class to add query parameters to the URL
+* Connecting to an API
+* Parsing the JSON response
+* Updating information regularly
+* AsyncTask
+* Network operations independent of the Activity lifecycle
+* Uri.Builder class to add query parameters to the URL
 
 ## Authors
 Maged Noshy fakhary See also the list of contributors who participated in this project.
